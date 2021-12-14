@@ -1,0 +1,33 @@
+[
+
+        {
+            "id": "1",
+            "BlockId": "4",
+            "ImageId": "1",
+            "IsLogo": false,
+            "FileName": "daniel-olahh.jpg",
+            "ImageUrl": "../../templates/paperkit2/img/daniel-olahh.jpg",
+            "SequenceNumber": "1",
+            "WebsiteId": "1"
+        },
+        {
+            "id": "2",
+            "BlockId": "4",
+            "ImageId": "2",
+            "IsLogo": false,
+            "FileName": "7175612472_9dcde11e20_b-2.jpg",
+            "ImageUrl": "../../templates/paperkit2/img/7175612472_9dcde11e20_b-2.jpg",
+            "SequenceNumber": "2",
+            "WebsiteId": "1"
+        },
+        {
+            "id": "3",
+            "BlockId": "4",
+            "ImageId": "2",
+            "IsLogo": false,
+            "FileName": "R75e68d3eb85dc76dbf68c1d9c2491de2.jpeg",
+            "ImageUrl": "../../templates/paperkit2/img/R75e68d3eb85dc76dbf68c1d9c2491de2.jpeg",
+            "SequenceNumber": "3",
+            "WebsiteId": "1"
+        }
+]

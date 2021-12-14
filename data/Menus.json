@@ -1,0 +1,46 @@
+[
+
+        {
+            "id": "1",
+            "memu_name": "MainMenu",
+            "parent_menu_id": null,
+            "Marketplace":{
+                "MarketplaceId": "1",
+                "Name": "MaroonHair",
+                "HeaderLogo": "726b2d20509971.562ec74e76577.jpg",
+                "Description": "Marketplace for hair care in the Maroon Village",
+                "Url": "localhost:5001"
+        
+            },
+            "MenuItems":[
+                {
+                    "MenuItemId": "1",
+                    "SquenceNumber":"1",
+                    "ItemName":"AboutUs",
+                    "Controller": "Home",
+                    "Action":"AboutUs",
+                    "Title":"About Us"
+
+                },
+                {
+                    "MenuItemId": "2",
+                    "SquenceNumber":"2",
+                    "ItemName":"ContactUs",
+                    "Controller": "Home",
+                    "Action":"ContactUs",
+                    "Title":"Contact Us"
+
+                },
+                {
+                    "MenuItemId": "3",
+                    "SquenceNumber":"3",
+                    "ItemName":"Privacy",
+                    "Controller": "Home",
+                    "Action":"Privacy",
+                    "Title":"Privacy"
+
+                }
+            ]
+
+        }
+    ]

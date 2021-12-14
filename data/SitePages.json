@@ -1,0 +1,275 @@
+[
+    {
+        "id": "1",
+        "PageMachineName": "Home",
+        "PageTitle": "Home Page",
+        "Marketplace":{
+            "MarketplaceId": "1",
+            "Name": "MaroonHair",
+            "HeaderLogo": "726b2d20509971.562ec74e76577.jpg",
+            "Description": "Marketplace for hair care in the Maroon Village",
+            "Url": "localhost:5001"
+    
+        },
+        "Template":{
+            "TemplateId": "1",
+            "TemplateName" : "Basic_1",
+            "TemplateMachineName": "Basic_1",
+            "IsMobile": false
+        },
+        "Blocks":[
+            {
+                "BlockId": "1",
+                "BlockMachineName": "HaderLogo",
+                "BlockTitle": "HeaderLogo",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "2",
+                "BlockMachineName": "HaderLoginMenu",
+                "BlockTitle": "HeaderLoginMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "3",
+                "BlockMachineName": "HeaderMainMenu",
+                "BlockTitle": "HeaderMeainMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "4",
+                "BlockMachineName": "HeaderMainMenu",
+                "BlockTitle": "HeaderMeainMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "5",
+                "BlockMachineName": "HeaderImage",
+                "BlockTitle": "HeaderImage",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "6",
+                "BlockMachineName": "HeaderText",
+                "BlockTitle": "HeaderText",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "PageMachineName": "Login",
+        "PageTitle": "Login Page",
+        "Marketplace":{
+            "MarketplaceId": "1",
+            "Name": "MaroonHair",
+            "HeaderLogo": "726b2d20509971.562ec74e76577.jpg",
+            "Description": "Marketplace for hair care in the Maroon Village",
+            "Url": "localhost:5001"
+    
+        },
+        "Template":{
+            "TemplateId": "1",
+            "TemplateName" : "Basic_1",
+            "TemplateMachineName": "Basic_1",
+            "IsMobile": false
+        },
+        "Blocks":[
+            {
+                "BlockId": "1",
+                "BlockMachineName": "HaderLogo",
+                "BlockTitle": "HeaderLogo",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "2",
+                "BlockMachineName": "HaderLoginMenu",
+                "BlockTitle": "HeaderLoginMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "3",
+                "BlockMachineName": "HeaderMainMenu",
+                "BlockTitle": "HeaderMeainMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "PageMachineName": "Register",
+        "PageTitle": "Register Page",
+        "Marketplace":{
+            "MarketplaceId": "1",
+            "Name": "MaroonHair",
+            "HeaderLogo": "726b2d20509971.562ec74e76577.jpg",
+            "Description": "Marketplace for hair care in the Maroon Village",
+            "Url": "localhost:5001"
+    
+        },
+        "Template":{
+            "TemplateId": "1",
+            "TemplateName" : "Basic_1",
+            "TemplateMachineName": "Basic_1",
+            "IsMobile": false
+        },
+        "Blocks":[
+            {
+                "BlockId": "1",
+                "BlockMachineName": "HaderLogo",
+                "BlockTitle": "HeaderLogo",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "2",
+                "BlockMachineName": "HaderLoginMenu",
+                "BlockTitle": "HeaderLoginMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "3",
+                "BlockMachineName": "HeaderMainMenu",
+                "BlockTitle": "HeaderMeainMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "PageMachineName": "RegisterConfirmation",
+        "PageTitle": "Register Confirmation Page",
+        "Marketplace":{
+            "MarketplaceId": "1",
+            "Name": "MaroonHair",
+            "HeaderLogo": "726b2d20509971.562ec74e76577.jpg",
+            "Description": "Marketplace for hair care in the Maroon Village",
+            "Url": "localhost:5001"
+    
+        },
+        "Template":{
+            "TemplateId": "1",
+            "TemplateName" : "Basic_1",
+            "TemplateMachineName": "Basic_1",
+            "IsMobile": false
+        },
+        "Blocks":[
+            {
+                "BlockId": "1",
+                "BlockMachineName": "HaderLogo",
+                "BlockTitle": "HeaderLogo",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "2",
+                "BlockMachineName": "HaderLoginMenu",
+                "BlockTitle": "HeaderLoginMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "PageMachineName": "ConfirmEmail",
+        "PageTitle": "Confirm Email Page",
+        "Marketplace":{
+            "MarketplaceId": "1",
+            "Name": "MaroonHair",
+            "HeaderLogo": "726b2d20509971.562ec74e76577.jpg",
+            "Description": "Marketplace for hair care in the Maroon Village",
+            "Url": "localhost:5001"
+    
+        },
+        "Template":{
+            "TemplateId": "1",
+            "TemplateName" : "Basic_1",
+            "TemplateMachineName": "Basic_1",
+            "IsMobile": false
+        },
+        "Blocks":[
+            {
+                "BlockId": "1",
+                "BlockMachineName": "HaderLogo",
+                "BlockTitle": "HeaderLogo",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "2",
+                "BlockMachineName": "HaderLoginMenu",
+                "BlockTitle": "HeaderLoginMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "3",
+                "BlockMachineName": "HeaderMainMenu",
+                "BlockTitle": "HeaderMeainMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "PageMachineName": "Profile",
+        "PageTitle": "Profile Page",
+        "Marketplace":{
+            "MarketplaceId": "1",
+            "Name": "MaroonHair",
+            "HeaderLogo": "726b2d20509971.562ec74e76577.jpg",
+            "Description": "Marketplace for hair care in the Maroon Village",
+            "Url": "localhost:5001"
+    
+        },
+        "Template":{
+            "TemplateId": "1",
+            "TemplateName" : "Basic_1",
+            "TemplateMachineName": "Basic_1",
+            "IsMobile": false
+        },
+        "Blocks":[
+            {
+                "BlockId": "1",
+                "BlockMachineName": "HaderLogo",
+                "BlockTitle": "HeaderLogo",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "2",
+                "BlockMachineName": "HaderLoginMenu",
+                "BlockTitle": "HeaderLoginMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "3",
+                "BlockMachineName": "HeaderMainMenu",
+                "BlockTitle": "HeaderMeainMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            },
+            {
+                "BlockId": "4",
+                "BlockMachineName": "HeaderMainMenu",
+                "BlockTitle": "HeaderMeainMenu",
+                "BlockContentType": "0",
+                "IsDataFeed": false
+            }
+        ]
+    }
+    ]
